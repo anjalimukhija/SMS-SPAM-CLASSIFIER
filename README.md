@@ -50,5 +50,6 @@ streamlit run app.py
 
 Author-Anjali Mukhija
 
-Anjali
+Live Demo-
+https://sms-spam-classifier-4owyeqsec52zkjhe9w9yzq.streamlit.app/
 
